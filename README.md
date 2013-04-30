@@ -1,9 +1,7 @@
-Mipey's Spritefont
+#Mipey's Spritefont
 ==================
 
-#Sprite Font
-
-##Display text using a bitmap font.
+#Display text using a bitmap font.
 
 
 * Download spritefont (Revision: 28th August 2012)
