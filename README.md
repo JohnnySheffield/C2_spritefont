@@ -103,3 +103,5 @@ Finally, save the image and import it to Construct 2 (by editing Sprite Font tex
 4. Some characters may need to be escaped with \ before them in a string. To be on the safe side, stick to alphanumeric characters!
 
 5. Don't like how letters are placed so widely? Use horizontal spacing to get them tighter!
+
+6. Check out the forum page for this plugin for [more](http://www.scirra.com/FORUM/plugin-spritefont-28th-august-2012_topic45876_page1.html)
